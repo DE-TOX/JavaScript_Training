@@ -73,3 +73,16 @@
 // }
 
 // main();
+
+// Callback Function
+
+// const print = function(){
+//     console.log("I m Callback");
+// }
+
+// setTimeout(print,2000)
+
+// setTimeout(()=>{
+//     console.log("Anonymous callback");
+// },5000)
+

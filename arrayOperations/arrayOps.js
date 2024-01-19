@@ -63,3 +63,25 @@
 // let result = text1.concat(" ",text2);
 
 // console.log(result);
+
+
+//join
+
+// let array = ["Bicycle" ,"car", "bike", "scooty"]
+// let txt = array.join("-")
+// console.log(txt);
+
+
+//toString
+
+// let array = ["Bicycle" ,"car", "bike", "scooty"]
+// let txt = array.toString()
+// console.log(txt);
+
+
+//indexoff
+
+// let array = ["Bicycle" ,"car", "bike", "scooty"]
+// let txt = array.indexOf("car")
+// console.log(txt);
+
